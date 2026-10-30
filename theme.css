@@ -1,0 +1,37 @@
+/* watkoopik · groene variant: smaragd als merkkleur, oranje alleen voor kopen, goud voor winnaars */
+.theme-green{--purple:#11466a;--purple2:#0d3855;--cyan:#11466a;--ink:#121f27;--ink2:#59656d;--ink3:#80908a;--glow:0 1px 2px rgba(18,31,39,.05),0 18px 40px -16px rgba(18,31,39,.2)}
+.theme-green .logo svg path:first-of-type{fill:#11466a}
+.theme-green .logo-word b{color:#11466a}
+.theme-green .nav-links a:hover,.theme-green .nav-links a.active{background:#e4ecf1;color:#11466a}
+.theme-green .grad,.theme-green .split.is-split .grad .w>span{background:linear-gradient(90deg,#b8860b,#d4a52a,#a9790a,#b8860b);background-size:300% 100%;-webkit-background-clip:text;background-clip:text}
+.theme-green .search:focus-within{box-shadow:0 0 0 5px rgba(17,70,106,.14)}
+.theme-green .results a:hover,.theme-green .results a.hl{background:#eaf1f5}
+.theme-green .hero{background:#0d2f46}
+.theme-green .hero::before{background:linear-gradient(180deg,rgba(9,31,46,.5),rgba(9,31,46,.25) 60%,rgba(9,31,46,.55))}
+.theme-green .hero .grad,.theme-green .hero .split.is-split .grad .w>span{background:linear-gradient(90deg,#f2c14e,#ffe08a,#e9b43c,#f2c14e);background-size:300% 100%;-webkit-background-clip:text;background-clip:text}
+.theme-green .hero .lead{color:#dde8ef}
+.theme-green .hero-stats span{color:#c0d4e1}
+.theme-green .cat .ic,.theme-green .ideal{background:#e4ecf1;color:#11466a}
+.theme-green .ideal{color:var(--ink)}
+.theme-green .cat:hover .ic{background:#11466a;color:#ffffff}
+.theme-green .sc{background:#e4ecf1;color:#11466a}
+.theme-green tbody tr:hover{background:#f4f8fa}
+.theme-green .q-opts button:hover{background:#eaf1f5;border-color:#11466a}
+.theme-green .cta-band{background:linear-gradient(120deg,#11466a,#195e8c);box-shadow:0 30px 70px -30px rgba(17,70,106,.55)}
+.theme-green .cta-band p{color:#e2ecf3}
+.theme-green .verdict,.theme-green footer{background:#0f2330}
+.theme-green .verdict p{color:#dde8ef}
+.theme-green footer,.theme-green footer a{color:#abbcc7}
+.theme-green footer .logo-word b{color:#82b4d5}
+.theme-green .filters button.on{background:#11466a;border-color:#11466a}
+.theme-green .step .n{background:#11466a}
+.theme-green .numbers b,.theme-green .numbers b.grad{color:#11466a;-webkit-text-fill-color:#11466a}
+.theme-green .search .sbtn,.theme-green .btn-purple,.theme-green .q-prog i,.theme-green .bar i em{background:#11466a}
+.theme-green .btn-purple{box-shadow:0 8px 20px -8px rgba(17,70,106,.55)}
+.theme-green .cat::before{filter:hue-rotate(-95deg) saturate(.8)}
+
+/* hero: alleen groentinten, geen warme vlekken */
+.theme-green .hero::before{background:linear-gradient(180deg,rgba(7,28,41,.45),rgba(7,28,41,.2) 60%,rgba(7,28,41,.5))}
+
+/* landensites: productplaatshouder zonder foto */
+.ph{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:6px;width:100%;height:100%;min-height:90px;background:linear-gradient(135deg,#f6f3ec,#fff)}.ph em{font-style:normal;font-family:Sora,sans-serif;font-weight:700;font-size:.8rem;letter-spacing:.04em;text-transform:uppercase;color:#11466a}.mq-ico{font-size:1.4rem;margin-right:6px}
