@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://checomprare.it/</loc><lastmod>2026-10-30</lastmod><priority>1.0</priority></url>
-<url><loc>https://checomprare.it/tutte-le-guide.html</loc><lastmod>2026-10-30</lastmod><priority>0.8</priority></url>
-<url><loc>https://checomprare.it/come-scegliamo.html</loc><lastmod>2026-10-30</lastmod><priority>0.4</priority></url>
-<url><loc>https://checomprare.it/chi-siamo.html</loc><lastmod>2026-10-30</lastmod><priority>0.3</priority></url>
+<url><loc>https://checomprare.it/</loc><lastmod>2026-10-31</lastmod><priority>1.0</priority></url>
+<url><loc>https://checomprare.it/tutte-le-guide.html</loc><lastmod>2026-10-31</lastmod><priority>0.8</priority></url>
+<url><loc>https://checomprare.it/come-scegliamo.html</loc><lastmod>2026-10-31</lastmod><priority>0.4</priority></url>
+<url><loc>https://checomprare.it/chi-siamo.html</loc><lastmod>2026-10-31</lastmod><priority>0.3</priority></url>
 <url><loc>https://checomprare.it/categoria/huishouden.html</loc><lastmod>2026-10-30</lastmod><priority>0.7</priority></url>
 <url><loc>https://checomprare.it/categoria/keuken.html</loc><lastmod>2026-10-30</lastmod><priority>0.7</priority></url>
 <url><loc>https://checomprare.it/categoria/slapen.html</loc><lastmod>2026-10-30</lastmod><priority>0.7</priority></url>
-<url><loc>https://checomprare.it/categoria/elektronica.html</loc><lastmod>2026-10-30</lastmod><priority>0.7</priority></url>
+<url><loc>https://checomprare.it/categoria/elektronica.html</loc><lastmod>2026-10-31</lastmod><priority>0.7</priority></url>
 <url><loc>https://checomprare.it/categoria/wonen.html</loc><lastmod>2026-10-30</lastmod><priority>0.7</priority></url>
 <url><loc>https://checomprare.it/migliori/migliori-tv-55-pollici.html</loc><lastmod>2026-10-30</lastmod><priority>0.9</priority></url>
 <url><loc>https://checomprare.it/migliori/migliori-robot-aspirapolvere-lavapavimenti.html</loc><lastmod>2026-10-30</lastmod><priority>0.9</priority></url>
@@ -17,11 +17,12 @@
 <url><loc>https://checomprare.it/migliori/migliori-scaldasonno-coperte-elettriche.html</loc><lastmod>2026-10-30</lastmod><priority>0.9</priority></url>
 <url><loc>https://checomprare.it/migliori/migliori-auricolari-wireless.html</loc><lastmod>2026-10-30</lastmod><priority>0.9</priority></url>
 <url><loc>https://checomprare.it/migliori/migliori-macchine-caffe-automatiche.html</loc><lastmod>2026-10-30</lastmod><priority>0.9</priority></url>
-<url><loc>https://checomprare.it/aiuto-nella-scelta.html</loc><lastmod>2026-10-30</lastmod><priority>0.7</priority></url>
-<url><loc>https://checomprare.it/miglior-rapporto-qualita-prezzo.html</loc><lastmod>2026-10-30</lastmod><priority>0.7</priority></url>
-<url><loc>https://checomprare.it/idee-regalo/</loc><lastmod>2026-10-30</lastmod><priority>0.8</priority></url>
-<url><loc>https://checomprare.it/black-friday/</loc><lastmod>2026-10-30</lastmod><priority>0.8</priority></url>
-<url><loc>https://checomprare.it/confronto/</loc><lastmod>2026-10-30</lastmod><priority>0.6</priority></url>
+<url><loc>https://checomprare.it/migliori/migliori-tv-sotto-500-euro.html</loc><lastmod>2026-10-31</lastmod><priority>0.9</priority></url>
+<url><loc>https://checomprare.it/aiuto-nella-scelta.html</loc><lastmod>2026-10-31</lastmod><priority>0.7</priority></url>
+<url><loc>https://checomprare.it/miglior-rapporto-qualita-prezzo.html</loc><lastmod>2026-10-31</lastmod><priority>0.7</priority></url>
+<url><loc>https://checomprare.it/idee-regalo/</loc><lastmod>2026-10-31</lastmod><priority>0.8</priority></url>
+<url><loc>https://checomprare.it/black-friday/</loc><lastmod>2026-10-31</lastmod><priority>0.8</priority></url>
+<url><loc>https://checomprare.it/confronto/</loc><lastmod>2026-10-31</lastmod><priority>0.6</priority></url>
 <url><loc>https://checomprare.it/confronto/sony-wf-1000xm6-vs-cmf-buds-pro-2.html</loc><lastmod>2026-10-30</lastmod><priority>0.6</priority></url>
 <url><loc>https://checomprare.it/confronto/ninja-af400eu-vs-cosori-turbo-blaze-6-l.html</loc><lastmod>2026-10-30</lastmod><priority>0.6</priority></url>
 <url><loc>https://checomprare.it/confronto/delonghi-rivelia-vs-magnifica-s.html</loc><lastmod>2026-10-30</lastmod><priority>0.6</priority></url>
@@ -30,4 +31,5 @@
 <url><loc>https://checomprare.it/confronto/dyson-v15-detect-vs-dreame-r20.html</loc><lastmod>2026-10-30</lastmod><priority>0.6</priority></url>
 <url><loc>https://checomprare.it/confronto/delonghi-capsule-vs-rowenta-compact-power.html</loc><lastmod>2026-10-30</lastmod><priority>0.6</priority></url>
 <url><loc>https://checomprare.it/confronto/lg-oled-c5-vs-lg-oled-b5.html</loc><lastmod>2026-10-30</lastmod><priority>0.6</priority></url>
+<url><loc>https://checomprare.it/confronto/lg-qned84-vs-tcl-65t69c.html</loc><lastmod>2026-10-31</lastmod><priority>0.6</priority></url>
 </urlset>
