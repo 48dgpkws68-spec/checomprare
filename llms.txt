@@ -2,6 +2,18 @@
 
 > Guide d'acquisto top 10 indipendenti. Per ogni tipo di prodotto dieci modelli confrontati per caratteristiche, prezzo e recensioni, con pro e contro, guida all'acquisto e FAQ. I prezzi sono indicativi.
 
+checomprare è curato da Nick van Straaten, un editore indipendente con sede nei Paesi Bassi. Per ogni tipo di prodotto confrontiamo i modelli per caratteristiche, prezzo e opinioni degli acquirenti, e aggiorniamo una guida quando cambiano i prezzi o esce un modello migliore. Non testiamo i prodotti in un laboratorio nostro. Le nostre guide sono scritte con l'aiuto di strumenti di IA, sulla base di schede tecniche, prezzi e recensioni degli acquirenti; Nick supervisiona il metodo e corregge le guide quando un lettore o i nostri controlli trovano un errore. Contatti: nick@4neon.nl
+
+## Pagine principali
+
+- [checomprare](https://checomprare.it/): Guide d'acquisto top 10 indipendenti: le migliori TV, robot aspirapolvere, friggitrici ad aria e altro del 2026. Confrontati per prezzo, caratteristiche e recensioni.
+- [Tutte le guide](https://checomprare.it/tutte-le-guide.html): Panoramica di tutte le guide d'acquisto top 10 su checomprare, filtrabili per categoria.
+- [Come scegliamo](https://checomprare.it/come-scegliamo.html): Il nostro metodo: un voto da 1 a 10 per prestazioni, qualità-prezzo, affidabilità e facilità d'uso, in base a schede tecniche, prezzi e recensioni.
+- [Chi siamo](https://checomprare.it/chi-siamo.html): checomprare pubblica guide d'acquisto top 10 indipendenti, curate da Nick van Straaten dai Paesi Bassi. I marchi non possono comprare un posto in classifica.
+- [Idee regalo](https://checomprare.it/idee-regalo/): Idee regalo per il 2026: il numero 1 di ogni nostra classifica top 10, scelto per caratteristiche, prezzo e recensioni.
+- [Aiuto nella scelta](https://checomprare.it/aiuto-nella-scelta.html): Rispondi a tre domande e scopri quale prodotto delle nostre classifiche top 10 si adatta meglio al tuo budget e alle tue esigenze.
+- [Qualità-prezzo](https://checomprare.it/miglior-rapporto-qualita-prezzo.html): Per ogni tipo di prodotto, il modello con il miglior rapporto qualità-prezzo dalle nostre classifiche top 10.
+
 ## Elettrodomestici
 
 - [I 10 migliori robot aspirapolvere lavapavimenti del 2026](https://checomprare.it/migliori/migliori-robot-aspirapolvere-lavapavimenti.html): #1 Dreame X50 Ultra Complete
